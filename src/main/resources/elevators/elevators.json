@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "currentFloor": -1,
+    "currentDirection": "UP",
+    "targetFloors": [0, 3],
+    "targetFloorsOtherDirection": []
+  },
+  {
+    "id": 2,
+    "currentFloor": 7,
+    "currentDirection": "DOWN",
+    "targetFloors": [6],
+    "targetFloorsOtherDirection": [8]
+  },
+  {
+    "id": 3,
+    "currentFloor": 5,
+    "currentDirection": "IDLE",
+    "targetFloors": [],
+    "targetFloorsOtherDirection": []
+  },
+  {
+    "id": 4,
+    "currentFloor": 10,
+    "currentDirection": "DOWN",
+    "targetFloors": [-2],
+    "targetFloorsOtherDirection": []
+  }
+]
